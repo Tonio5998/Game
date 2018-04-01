@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_Taral.Plugins", "Project_Taral.Plugins.csproj", "{E5B4C099-9BBD-688D-E582-156097697427}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_Taral", "Project_Taral.csproj", "{9330FD7E-EDDD-54E2-990D-4929864DAA76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_Taral.Editor", "Project_Taral.Editor.csproj", "{5E7EFF91-A700-EC6F-29FB-D6B6743B84EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5B4C099-9BBD-688D-E582-156097697427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5B4C099-9BBD-688D-E582-156097697427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5B4C099-9BBD-688D-E582-156097697427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5B4C099-9BBD-688D-E582-156097697427}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9330FD7E-EDDD-54E2-990D-4929864DAA76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9330FD7E-EDDD-54E2-990D-4929864DAA76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9330FD7E-EDDD-54E2-990D-4929864DAA76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9330FD7E-EDDD-54E2-990D-4929864DAA76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E7EFF91-A700-EC6F-29FB-D6B6743B84EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E7EFF91-A700-EC6F-29FB-D6B6743B84EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E7EFF91-A700-EC6F-29FB-D6B6743B84EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E7EFF91-A700-EC6F-29FB-D6B6743B84EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

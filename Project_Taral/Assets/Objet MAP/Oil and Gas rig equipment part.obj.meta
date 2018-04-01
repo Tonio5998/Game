@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: b23569e331d96b74e8e1c548c7b5ec24
+timeCreated: 1516348784
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box319
+    100002: Box320
+    100004: Box321
+    100006: Cylinder499
+    100008: Cylinder500
+    100010: Cylinder501
+    100012: Cylinder502
+    100014: Cylinder503
+    100016: Cylinder504
+    100018: Cylinder505
+    100020: Line234
+    100022: Line236
+    100024: Line237
+    100026: Line238
+    100028: Line239
+    100030: Line240
+    100032: Line241
+    100034: Line242
+    100036: Line243
+    100038: Line244
+    100040: Line245
+    100042: Line246
+    100044: Line247
+    100046: Line248
+    100048: Line249
+    100050: Line264
+    100052: Line267
+    100054: Line269
+    100056: //RootNode
+    400000: Box319
+    400002: Box320
+    400004: Box321
+    400006: Cylinder499
+    400008: Cylinder500
+    400010: Cylinder501
+    400012: Cylinder502
+    400014: Cylinder503
+    400016: Cylinder504
+    400018: Cylinder505
+    400020: Line234
+    400022: Line236
+    400024: Line237
+    400026: Line238
+    400028: Line239
+    400030: Line240
+    400032: Line241
+    400034: Line242
+    400036: Line243
+    400038: Line244
+    400040: Line245
+    400042: Line246
+    400044: Line247
+    400046: Line248
+    400048: Line249
+    400050: Line264
+    400052: Line267
+    400054: Line269
+    400056: //RootNode
+    2300000: Box319
+    2300002: Box320
+    2300004: Box321
+    2300006: Cylinder499
+    2300008: Cylinder500
+    2300010: Cylinder501
+    2300012: Cylinder502
+    2300014: Cylinder503
+    2300016: Cylinder504
+    2300018: Cylinder505
+    2300020: Line234
+    2300022: Line236
+    2300024: Line237
+    2300026: Line238
+    2300028: Line239
+    2300030: Line240
+    2300032: Line241
+    2300034: Line242
+    2300036: Line243
+    2300038: Line244
+    2300040: Line245
+    2300042: Line246
+    2300044: Line247
+    2300046: Line248
+    2300048: Line249
+    2300050: Line264
+    2300052: Line267
+    2300054: Line269
+    3300000: Box319
+    3300002: Box320
+    3300004: Box321
+    3300006: Cylinder499
+    3300008: Cylinder500
+    3300010: Cylinder501
+    3300012: Cylinder502
+    3300014: Cylinder503
+    3300016: Cylinder504
+    3300018: Cylinder505
+    3300020: Line234
+    3300022: Line236
+    3300024: Line237
+    3300026: Line238
+    3300028: Line239
+    3300030: Line240
+    3300032: Line241
+    3300034: Line242
+    3300036: Line243
+    3300038: Line244
+    3300040: Line245
+    3300042: Line246
+    3300044: Line247
+    3300046: Line248
+    3300048: Line249
+    3300050: Line264
+    3300052: Line267
+    3300054: Line269
+    4300000: Box319
+    4300002: Box320
+    4300004: Box321
+    4300006: Cylinder499
+    4300008: Cylinder500
+    4300010: Cylinder501
+    4300012: Cylinder502
+    4300014: Cylinder503
+    4300016: Cylinder504
+    4300018: Cylinder505
+    4300020: Line234
+    4300022: Line236
+    4300024: Line237
+    4300026: Line238
+    4300028: Line239
+    4300030: Line240
+    4300032: Line241
+    4300034: Line242
+    4300036: Line243
+    4300038: Line244
+    4300040: Line245
+    4300042: Line246
+    4300044: Line247
+    4300046: Line248
+    4300048: Line249
+    4300050: Line264
+    4300052: Line267
+    4300054: Line269
+    6400000: Box319
+    6400002: Box320
+    6400004: Box321
+    6400006: Cylinder499
+    6400008: Cylinder500
+    6400010: Cylinder501
+    6400012: Cylinder502
+    6400014: Cylinder503
+    6400016: Cylinder504
+    6400018: Cylinder505
+    6400020: Line234
+    6400022: Line236
+    6400024: Line237
+    6400026: Line238
+    6400028: Line239
+    6400030: Line240
+    6400032: Line241
+    6400034: Line242
+    6400036: Line243
+    6400038: Line244
+    6400040: Line245
+    6400042: Line246
+    6400044: Line247
+    6400046: Line248
+    6400048: Line249
+    6400050: Line264
+    6400052: Line267
+    6400054: Line269
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,30 @@
+.footer {
+                                                       
+background: #121212;
+color: #fff;
+bottom: 0;
+width:100%;
+left:0;
+right: 0;
+padding-top:50px;
+position: absolute;
+height:50px
+}
+
+.images{
+  width: 120px;
+	height: 85px;
+  margin-left: 50px;
+  align-items: center;
+}
+
+.footer p{
+  text-align: center;
+}
+
+.imagess{
+  width: 180px;
+	height: 80px;
+  margin-left: 1110px;
+  align-items: center;
+}

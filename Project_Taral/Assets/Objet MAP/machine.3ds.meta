@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: e54334781e7293b439cadad963a87ee8
+timeCreated: 1516348774
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bagues
+    100002: bidules
+    100004: boulons
+    100006: corps
+    100008: door
+    100010: door2
+    100012: //RootNode
+    100014: manettes
+    100016: Projecteu1
+    100018: Projecteu1.target
+    100020: Projecteur
+    100022: Projecteur.target
+    100024: renforts
+    100026: trucs
+    100028: tubes
+    400000: bagues
+    400002: bidules
+    400004: boulons
+    400006: corps
+    400008: door
+    400010: door2
+    400012: //RootNode
+    400014: manettes
+    400016: Projecteu1
+    400018: Projecteu1.target
+    400020: Projecteur
+    400022: Projecteur.target
+    400024: renforts
+    400026: trucs
+    400028: tubes
+    2300000: bagues
+    2300002: bidules
+    2300004: boulons
+    2300006: corps
+    2300008: door
+    2300010: door2
+    2300012: manettes
+    2300014: renforts
+    2300016: trucs
+    2300018: tubes
+    3300000: bagues
+    3300002: bidules
+    3300004: boulons
+    3300006: corps
+    3300008: door
+    3300010: door2
+    3300012: manettes
+    3300014: renforts
+    3300016: trucs
+    3300018: tubes
+    4300000: trucs
+    4300002: boulons
+    4300004: bidules
+    4300006: bagues
+    4300008: renforts
+    4300010: manettes
+    4300012: corps
+    4300014: tubes
+    4300016: door
+    4300018: door2
+    6400000: bagues
+    6400002: bidules
+    6400004: boulons
+    6400006: corps
+    6400008: door
+    6400010: door2
+    6400012: manettes
+    6400014: renforts
+    6400016: trucs
+    6400018: tubes
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

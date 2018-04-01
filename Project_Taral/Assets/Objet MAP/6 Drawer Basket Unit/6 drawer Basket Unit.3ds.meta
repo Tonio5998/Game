@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: ac317d8265d50ae4286d5ad5c81f2dd4
+timeCreated: 1516113951
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Back_Panel
+    100004: Base
+    100006: bottom_LH_
+    100008: Bottom_RH_
+    100010: Bottom_She
+    100012: Cube
+    100014: Main_Body
+    100016: Middle_LH_
+    100018: Middle_Par
+    100020: Middle_RH_
+    100022: Top_LH_Bas
+    100024: Top_RH_Bas
+    100026: Top_Shelf
+    100028: Worktop
+    400000: //RootNode
+    400002: Back_Panel
+    400004: Base
+    400006: bottom_LH_
+    400008: Bottom_RH_
+    400010: Bottom_She
+    400012: Cube
+    400014: Main_Body
+    400016: Middle_LH_
+    400018: Middle_Par
+    400020: Middle_RH_
+    400022: Top_LH_Bas
+    400024: Top_RH_Bas
+    400026: Top_Shelf
+    400028: Worktop
+    2300000: //RootNode
+    2300002: Back_Panel
+    2300004: Base
+    2300006: bottom_LH_
+    2300008: Bottom_RH_
+    2300010: Bottom_She
+    2300012: Cube
+    2300014: Main_Body
+    2300016: Middle_LH_
+    2300018: Middle_Par
+    2300020: Middle_RH_
+    2300022: Top_LH_Bas
+    2300024: Top_RH_Bas
+    2300026: Top_Shelf
+    2300028: Worktop
+    3300000: //RootNode
+    3300002: Back_Panel
+    3300004: Base
+    3300006: bottom_LH_
+    3300008: Bottom_RH_
+    3300010: Bottom_She
+    3300012: Cube
+    3300014: Main_Body
+    3300016: Middle_LH_
+    3300018: Middle_Par
+    3300020: Middle_RH_
+    3300022: Top_LH_Bas
+    3300024: Top_RH_Bas
+    3300026: Top_Shelf
+    3300028: Worktop
+    4300000: Null
+    4300002: bottom_LH_
+    4300004: Bottom_RH_
+    4300006: Middle_RH_
+    4300008: Middle_LH_
+    4300010: Top_RH_Bas
+    4300012: Top_LH_Bas
+    4300014: Back_Panel
+    4300016: Worktop
+    4300018: Middle_Par
+    4300020: Bottom_She
+    4300022: Top_Shelf
+    4300024: Main_Body
+    4300026: Base
+    4300028: Cube
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Taral.unity
+  isLoaded: 1
+  isActive: 1

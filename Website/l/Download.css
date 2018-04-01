@@ -1,0 +1,40 @@
+.ds
+{
+    color : #D32F2F;
+    text-decoration: none;
+    margin: 0 0 0 80px;
+}
+.sjlk
+{
+  margin: 0 0 0 40px;
+}
+
+.box{
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+button{
+  font-size: 5em;
+  font-family: monospace;
+  padding: 16px;
+  border: none;
+  background-color: #D50000;
+  color: #fff;
+  border-radius: 10px;
+  box-shadow: 6px 6px 20px 4px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  outline: none;
+  transition: 0.2s;
+}
+
+button:hover{
+  transform: scale(1.01);
+  box-shadow: 6px 6px 25px 4px rgba(0, 0, 0, 0.27);
+}
+
+button:active{
+  transform: scale(0.98);
+  box-shadow: 6px 6px 18px 2px rgba(0, 0, 0, 0.33)
+}
